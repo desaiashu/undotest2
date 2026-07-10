@@ -9,16 +9,7 @@
       "offsetBeats": 0.0,
       "source": {
         "type": "Midi",
-        "notes": [
-          {
-            "id": "slsskm",
-            "note": 54,
-            "velocity": 100,
-            "beat": 1.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          }
-        ]
+        "notes": []
       },
       "araEnabled": false,
       "araBypassed": false,

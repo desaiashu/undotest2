@@ -73,6 +73,14 @@
             "beat": 5.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "59x1d7",
+            "note": 54,
+            "velocity": 100,
+            "beat": 11.0,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

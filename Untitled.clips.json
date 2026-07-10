@@ -65,6 +65,14 @@
             "beat": 5.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "rs7au6",
+            "note": 53,
+            "velocity": 100,
+            "beat": 5.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

@@ -86,7 +86,7 @@
         "filterRelease": 300.0,
         "ampAttack": 5.0,
         "ampDecay": 1.0,
-        "ampSustain": 80.0,
+        "ampSustain": 70.0,
         "ampRelease": 200.0,
         "masterLevel": 0.0
       },

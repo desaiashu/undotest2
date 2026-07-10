@@ -28,19 +28,13 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "pjs",
-      "returnId": "rsc",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "qkw",
       "returnId": "rrz",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "qkw",
+      "trackId": "pjs",
       "returnId": "rbw",
       "gain": 0.0,
       "preFader": false
@@ -59,19 +53,25 @@
     },
     {
       "trackId": "pjs",
+      "returnId": "rsc",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qkw",
       "returnId": "rbw",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "pjs",
-      "returnId": "rrz",
+      "returnId": "rnl",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "pjs",
-      "returnId": "rnl",
+      "returnId": "rrz",
       "gain": 0.0,
       "preFader": false
     }

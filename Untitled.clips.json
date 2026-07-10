@@ -3,7 +3,7 @@
     "zbkk": {
       "id": "zbkk",
       "trackId": "pjs",
-      "name": "MIDI",
+      "name": "midi - clip",
       "startBeat": 16.0,
       "lengthBeats": 16.0,
       "offsetBeats": 0.0,
@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "rynp9m",
+            "id": "ivgimq",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "h4hxnu",
+            "id": "ivgqat",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,39 +27,7 @@
             "channel": 0
           },
           {
-            "id": "idts07",
-            "note": 52,
-            "velocity": 100,
-            "beat": 8.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "lmhbso",
-            "note": 51,
-            "velocity": 100,
-            "beat": 11.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "fjtzwr",
-            "note": 47,
-            "velocity": 100,
-            "beat": 12.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "lk73i7",
-            "note": 47,
-            "velocity": 100,
-            "beat": 7.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "ueixrs",
+            "id": "ivgqas",
             "note": 48,
             "velocity": 100,
             "beat": 5.5,
@@ -67,15 +35,23 @@
             "channel": 0
           },
           {
-            "id": "rs7au6",
-            "note": 53,
+            "id": "ivgrrx",
+            "note": 47,
             "velocity": 100,
-            "beat": 5.5,
+            "beat": 7.0,
             "durationBeats": 0.5,
             "channel": 0
           },
           {
-            "id": "59x1d7",
+            "id": "ivgrrw",
+            "note": 52,
+            "velocity": 100,
+            "beat": 8.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "ivgrrz",
             "note": 54,
             "velocity": 100,
             "beat": 11.0,
@@ -83,10 +59,26 @@
             "channel": 0
           },
           {
-            "id": "5sytuv",
-            "note": 54,
+            "id": "ivgndm",
+            "note": 51,
             "velocity": 100,
-            "beat": 13.5,
+            "beat": 11.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "ivgndh",
+            "note": 47,
+            "velocity": 100,
+            "beat": 12.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "ivffzc",
+            "note": 53,
+            "velocity": 100,
+            "beat": 5.5,
             "durationBeats": 0.5,
             "channel": 0
           }

@@ -32,6 +32,6 @@ returns
 sec main
   trk 2 midi |pjs
     c 4:0 4:0 |zbkk
-      p _qd xx _qd xx _w _xx xx _h _xx xx _w
+      p _qd xx _qd xx _w _xx xx _w _hd
         v 100
-        n F#3 D#3 E3 D#3
+        n F#3 D#3 E3

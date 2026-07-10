@@ -609,6 +609,15 @@
         }
       },
       "sidechainSensitivity": 0.6
+    },
+    "woxs": {
+      "id": "woxs",
+      "trackId": "avl",
+      "typeName": "tivraWavetable",
+      "slot": "instrument",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

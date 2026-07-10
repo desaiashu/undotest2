@@ -17,6 +17,7 @@ tracks
     strip tivraStrip
   3 MIDI |avl
     type midi
+    plugin tivraWavetable
     strip tivraStrip
   4 MIDI |fln
     type midi

@@ -33,6 +33,14 @@
             "beat": 8.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "lmhbso",
+            "note": 51,
+            "velocity": 100,
+            "beat": 11.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

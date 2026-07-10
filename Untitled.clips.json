@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "khsqbq",
+            "id": "zroghq",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "khsrpj",
+            "id": "zronvd",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,7 +27,7 @@
             "channel": 0
           },
           {
-            "id": "khsmsy",
+            "id": "zronvc",
             "note": 48,
             "velocity": 100,
             "beat": 5.5,
@@ -35,7 +35,7 @@
             "channel": 0
           },
           {
-            "id": "khsmsz",
+            "id": "zroplj",
             "note": 47,
             "velocity": 100,
             "beat": 7.0,
@@ -43,7 +43,7 @@
             "channel": 0
           },
           {
-            "id": "khsogs",
+            "id": "zropli",
             "note": 52,
             "velocity": 100,
             "beat": 8.5,
@@ -51,7 +51,7 @@
             "channel": 0
           },
           {
-            "id": "khsogt",
+            "id": "zrokwj",
             "note": 54,
             "velocity": 100,
             "beat": 11.0,
@@ -59,7 +59,7 @@
             "channel": 0
           },
           {
-            "id": "khsoge",
+            "id": "zrokwi",
             "note": 51,
             "velocity": 100,
             "beat": 11.5,
@@ -67,7 +67,7 @@
             "channel": 0
           },
           {
-            "id": "khqzmf",
+            "id": "zromkd",
             "note": 47,
             "velocity": 100,
             "beat": 12.0,
@@ -75,7 +75,7 @@
             "channel": 0
           },
           {
-            "id": "khqzmg",
+            "id": "zromkc",
             "note": 54,
             "velocity": 100,
             "beat": 13.5,
@@ -83,7 +83,7 @@
             "channel": 0
           },
           {
-            "id": "khrdbf",
+            "id": "zrupen",
             "note": 53,
             "velocity": 100,
             "beat": 5.5,

@@ -591,6 +591,15 @@
         "compSidechain": 0.0
       },
       "sidechainSensitivity": 0.6
+    },
+    "xzwl": {
+      "id": "xzwl",
+      "trackId": "pjs",
+      "typeName": "Abbey Road RS127 Box",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

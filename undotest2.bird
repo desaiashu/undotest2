@@ -40,7 +40,7 @@ returns
 
 sec main
   trk 1 audio |qkw
-    c 2:369 34:256 |lrwf
+    c 0:0 34:256 |lrwf
       'samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav'
   trk 2 midi |pjs
     c 4:0 4:0 |zbkk

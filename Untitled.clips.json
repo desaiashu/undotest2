@@ -17,6 +17,14 @@
             "beat": 1.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "h4hxnu",
+            "note": 51,
+            "velocity": 100,
+            "beat": 3.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

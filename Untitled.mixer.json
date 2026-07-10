@@ -41,6 +41,12 @@
     },
     {
       "trackId": "qkw",
+      "returnId": "rbw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "pjs",
       "returnId": "rrz",
       "gain": 0.0,
       "preFader": false
@@ -58,19 +64,13 @@
       "preFader": false
     },
     {
+      "trackId": "pjs",
+      "returnId": "rbw",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "qkw",
-      "returnId": "rbw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "pjs",
-      "returnId": "rbw",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "pjs",
       "returnId": "rrz",
       "gain": 0.0,
       "preFader": false

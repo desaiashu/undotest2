@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "xivrez",
+            "id": "acpqvq",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "xivyue",
+            "id": "acpsid",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,23 +27,7 @@
             "channel": 0
           },
           {
-            "id": "xiwajf",
-            "note": 48,
-            "velocity": 100,
-            "beat": 5.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "xiwaje",
-            "note": 47,
-            "velocity": 100,
-            "beat": 7.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "xivvqf",
+            "id": "acpsia",
             "note": 52,
             "velocity": 100,
             "beat": 8.5,
@@ -51,7 +35,7 @@
             "channel": 0
           },
           {
-            "id": "xivvqe",
+            "id": "acpzwb",
             "note": 51,
             "velocity": 100,
             "beat": 11.5,
@@ -59,7 +43,7 @@
             "channel": 0
           },
           {
-            "id": "xivxff",
+            "id": "acpzvy",
             "note": 47,
             "velocity": 100,
             "beat": 12.0,

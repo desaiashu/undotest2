@@ -25,6 +25,14 @@
             "beat": 3.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "idts07",
+            "note": 52,
+            "velocity": 100,
+            "beat": 8.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

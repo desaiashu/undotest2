@@ -54,6 +54,18 @@ sec main
         n F3
   trk 3 MIDI |avl
     c 5:0 3:0 |utnq
+      p w
+        v 90
+        n C#3 F#3 B2
+        .
+        v 90
+        n E3 A#3 D#3
+        .
+        v 90
+        n G#3 C#4 F#3
+        .
+        v 90
+        n B3 E4 A#3
   trk 5 Audio |cxh
     c 0:0 34:256 |clda
       'samples/Chicago sketch 10-Mini V3.wav'

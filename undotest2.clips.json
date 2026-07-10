@@ -1,5 +1,34 @@
 {
   "clips": {
+    "lrwf": {
+      "id": "lrwf",
+      "trackId": "qkw",
+      "name": "Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav",
+      "startBeat": 0.0,
+      "lengthBeats": 138.66666666666666,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
+    },
     "zbkk": {
       "id": "zbkk",
       "trackId": "pjs",
@@ -11,7 +40,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "qtagcy",
+            "id": "klrbmn",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +48,7 @@
             "channel": 0
           },
           {
-            "id": "qtaerf",
+            "id": "klrdbm",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,71 +56,7 @@
             "channel": 0
           },
           {
-            "id": "qtaere",
-            "note": 48,
-            "velocity": 100,
-            "beat": 5.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtapgz",
-            "note": 47,
-            "velocity": 100,
-            "beat": 7.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtapgy",
-            "note": 52,
-            "velocity": 100,
-            "beat": 8.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtanvf",
-            "note": 54,
-            "velocity": 100,
-            "beat": 11.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtanve",
-            "note": 51,
-            "velocity": 100,
-            "beat": 11.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtamgr",
-            "note": 47,
-            "velocity": 100,
-            "beat": 12.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtamgq",
-            "note": 54,
-            "velocity": 100,
-            "beat": 13.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "qtapqt",
-            "note": 53,
-            "velocity": 100,
-            "beat": 5.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "5eh657",
+            "id": "klreln",
             "note": 41,
             "velocity": 100,
             "beat": 5.0,
@@ -99,10 +64,74 @@
             "channel": 0
           },
           {
-            "id": "evu2id",
+            "id": "klreoy",
+            "note": 48,
+            "velocity": 100,
+            "beat": 5.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klrgav",
+            "note": 47,
+            "velocity": 100,
+            "beat": 7.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klyhji",
             "note": 41,
             "velocity": 100,
             "beat": 8.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klyhjj",
+            "note": 52,
+            "velocity": 100,
+            "beat": 8.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klyiqa",
+            "note": 54,
+            "velocity": 100,
+            "beat": 11.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klyiqb",
+            "note": 51,
+            "velocity": 100,
+            "beat": 11.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klykby",
+            "note": 47,
+            "velocity": 100,
+            "beat": 12.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klykbz",
+            "note": 54,
+            "velocity": 100,
+            "beat": 13.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "klxvng",
+            "note": 53,
+            "velocity": 100,
+            "beat": 5.5,
             "durationBeats": 0.5,
             "channel": 0
           }
@@ -121,28 +150,119 @@
         "mode": "eighth"
       }
     },
-    "lrwf": {
-      "id": "lrwf",
-      "trackId": "qkw",
-      "name": "Chicago sketch 11-dubpad 127 F [2020-12-03 123449]",
-      "startBeat": 0.0,
-      "lengthBeats": 138.66666666666666,
+    "utnq": {
+      "id": "utnq",
+      "trackId": "avl",
+      "name": "MIDI - clip",
+      "startBeat": 20.0,
+      "lengthBeats": 12.0,
       "offsetBeats": 0.0,
       "source": {
-        "type": "Audio",
-        "path": "samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav",
-        "sampleRate": 48000.0,
-        "channels": 2,
-        "lengthSamples": 3072000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpm": 130.0,
-        "sourceBpmOrigin": "Inherited"
+        "type": "Midi",
+        "notes": [
+          {
+            "id": "klwowz",
+            "note": 49,
+            "velocity": 90,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwoxa",
+            "note": 52,
+            "velocity": 90,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwqkt",
+            "note": 56,
+            "velocity": 90,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwqkm",
+            "note": 59,
+            "velocity": 90,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwqkn",
+            "note": 54,
+            "velocity": 90,
+            "beat": 4.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwfty",
+            "note": 58,
+            "velocity": 90,
+            "beat": 4.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwftz",
+            "note": 61,
+            "velocity": 90,
+            "beat": 4.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwftc",
+            "note": 64,
+            "velocity": 90,
+            "beat": 4.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwghp",
+            "note": 47,
+            "velocity": 90,
+            "beat": 8.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwghq",
+            "note": 51,
+            "velocity": 90,
+            "beat": 8.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwghr",
+            "note": 54,
+            "velocity": 90,
+            "beat": 8.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "klwghk",
+            "note": 58,
+            "velocity": 90,
+            "beat": 8.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          }
+        ]
       },
       "araEnabled": false,
       "araBypassed": false,
       "gain": 1.0,
-      "fadeInBeats": 0.008666666666666666,
-      "fadeOutBeats": 0.008666666666666666,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
       "loopEnabled": false,
       "reversed": false,
@@ -154,7 +274,7 @@
     "clda": {
       "id": "clda",
       "trackId": "cxh",
-      "name": "Chicago sketch 10-Mini V3",
+      "name": "Chicago sketch 10-Mini V3.wav",
       "startBeat": 0.0,
       "lengthBeats": 138.66666666666666,
       "offsetBeats": 0.0,
@@ -163,34 +283,9 @@
         "path": "samples/Chicago sketch 10-Mini V3.wav",
         "sampleRate": 48000.0,
         "channels": 2,
-        "lengthSamples": 3072000,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
-        "sourceBpm": 130.0,
         "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.008666666666666666,
-      "fadeOutBeats": 0.008666666666666666,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "utnq": {
-      "id": "utnq",
-      "trackId": "avl",
-      "name": "MIDI",
-      "startBeat": 20.0,
-      "lengthBeats": 12.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Midi",
-        "notes": []
       },
       "araEnabled": false,
       "araBypassed": false,

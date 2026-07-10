@@ -33,6 +33,36 @@
         "dubState": "empty",
         "audioTakeLaneCount": 0
       },
+      "avl": {
+        "id": "avl",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "fln": {
+        "id": "fln",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "cxh": {
+        "id": "cxh",
+        "name": "Audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
       "rnl": {
         "id": "rnl",
         "name": "Hall",
@@ -72,48 +102,18 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
-      },
-      "avl": {
-        "id": "avl",
-        "name": "MIDI",
-        "trackType": "midi",
-        "auditionLane": null,
-        "takeLaneCount": 0,
-        "audioFlipped": false,
-        "dubState": "empty",
-        "audioTakeLaneCount": 0
-      },
-      "fln": {
-        "id": "fln",
-        "name": "MIDI",
-        "trackType": "midi",
-        "auditionLane": null,
-        "takeLaneCount": 0,
-        "audioFlipped": false,
-        "dubState": "empty",
-        "audioTakeLaneCount": 0
-      },
-      "cxh": {
-        "id": "cxh",
-        "name": "Audio",
-        "trackType": "audio",
-        "auditionLane": null,
-        "takeLaneCount": 0,
-        "audioFlipped": false,
-        "dubState": "empty",
-        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
       "qkw",
       "pjs",
+      "avl",
+      "fln",
+      "cxh",
       "rnl",
       "rsc",
       "rrz",
-      "rbw",
-      "avl",
-      "fln",
-      "cxh"
+      "rbw"
     ],
     "sections": {
       "ssh": {

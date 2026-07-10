@@ -268,15 +268,6 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
-    },
-    "ubac": {
-      "id": "ubac",
-      "trackId": "fln",
-      "typeName": "tivraStrip",
-      "slot": "channelStrip",
-      "enabled": true,
-      "state": null,
-      "sidechainSensitivity": 0.6
     }
   }
 }

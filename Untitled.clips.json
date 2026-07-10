@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "ivgimq",
+            "id": "dzafqc",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "ivgqat",
+            "id": "dzanft",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,7 +27,7 @@
             "channel": 0
           },
           {
-            "id": "ivgqas",
+            "id": "dzaowm",
             "note": 48,
             "velocity": 100,
             "beat": 5.5,
@@ -35,7 +35,7 @@
             "channel": 0
           },
           {
-            "id": "ivgrrx",
+            "id": "dzaowp",
             "note": 47,
             "velocity": 100,
             "beat": 7.0,
@@ -43,7 +43,7 @@
             "channel": 0
           },
           {
-            "id": "ivgrrw",
+            "id": "dzakgw",
             "note": 52,
             "velocity": 100,
             "beat": 8.5,
@@ -51,15 +51,7 @@
             "channel": 0
           },
           {
-            "id": "ivgrrz",
-            "note": 54,
-            "velocity": 100,
-            "beat": 11.0,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "ivgndm",
+            "id": "dzakgb",
             "note": 51,
             "velocity": 100,
             "beat": 11.5,
@@ -67,7 +59,7 @@
             "channel": 0
           },
           {
-            "id": "ivgndh",
+            "id": "dzakga",
             "note": 47,
             "velocity": 100,
             "beat": 12.0,
@@ -75,7 +67,7 @@
             "channel": 0
           },
           {
-            "id": "ivffzc",
+            "id": "dyzdbz",
             "note": 53,
             "velocity": 100,
             "beat": 5.5,

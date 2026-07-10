@@ -259,15 +259,6 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
-    },
-    "vrls": {
-      "id": "vrls",
-      "trackId": "avl",
-      "typeName": "tivraStrip",
-      "slot": "channelStrip",
-      "enabled": true,
-      "state": null,
-      "sidechainSensitivity": 0.6
     }
   }
 }

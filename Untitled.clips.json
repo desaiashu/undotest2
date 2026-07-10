@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "knnxsx",
+            "id": "moqzsy",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "knnzhg",
+            "id": "morbkj",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,18 +27,10 @@
             "channel": 0
           },
           {
-            "id": "knnzhh",
+            "id": "morbkk",
             "note": 52,
             "velocity": 100,
             "beat": 8.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "knogwo",
-            "note": 51,
-            "velocity": 100,
-            "beat": 11.5,
             "durationBeats": 0.5,
             "channel": 0
           }

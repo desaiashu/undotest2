@@ -72,6 +72,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "avl": {
+        "id": "avl",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -80,7 +90,8 @@
       "rnl",
       "rsc",
       "rrz",
-      "rbw"
+      "rbw",
+      "avl"
     ],
     "sections": {
       "ssh": {

@@ -49,6 +49,22 @@
             "beat": 12.0,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "lk73i7",
+            "note": 47,
+            "velocity": 100,
+            "beat": 7.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "ueixrs",
+            "note": 48,
+            "velocity": 100,
+            "beat": 5.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },

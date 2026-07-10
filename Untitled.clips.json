@@ -11,10 +11,18 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "kawrxl",
+            "id": "jfybsx",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "jfwmtw",
+            "note": 51,
+            "velocity": 100,
+            "beat": 3.5,
             "durationBeats": 0.5,
             "channel": 0
           }

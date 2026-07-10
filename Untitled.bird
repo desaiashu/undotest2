@@ -30,3 +30,5 @@ returns
     strip tivraStrip
 
 sec main
+  trk 2 midi |pjs
+    c 4:0 4:0 |zbkk

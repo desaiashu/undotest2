@@ -20,9 +20,6 @@ tracks
   4 MIDI |fln
     type midi
     strip tivraStrip
-  5 Audio |cxh
-    type audio
-    strip tivraStrip
 
 returns
   0 Hall |rnl

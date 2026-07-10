@@ -1,0 +1,173 @@
+{
+  "song": {
+    "name": "Untitled",
+    "bpm": 130.0,
+    "key": "C major",
+    "scale": {
+      "division": "12tet",
+      "system": "western",
+      "root": "C",
+      "mode": "chromatic",
+      "justAnchor": false
+    },
+    "timeSigNumerator": 4,
+    "timeSigDenominator": 4,
+    "tracks": {
+      "qkw": {
+        "id": "qkw",
+        "name": "audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "pjs": {
+        "id": "pjs",
+        "name": "midi",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "rnl": {
+        "id": "rnl",
+        "name": "Hall",
+        "trackType": "return",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "rsc": {
+        "id": "rsc",
+        "name": "Plate",
+        "trackType": "return",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "rrz": {
+        "id": "rrz",
+        "name": "Delay",
+        "trackType": "return",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "rbw": {
+        "id": "rbw",
+        "name": "Color",
+        "trackType": "return",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      }
+    },
+    "trackOrder": [
+      "qkw",
+      "pjs",
+      "rnl",
+      "rsc",
+      "rrz",
+      "rbw"
+    ],
+    "sections": {
+      "ssh": {
+        "id": "ssh",
+        "name": "main",
+        "startBeat": 0.0,
+        "lengthBeats": 128.0,
+        "key": null,
+        "activeVariation": 0,
+        "variationCount": 0
+      }
+    },
+    "tempoMarkers": [],
+    "keyMarkers": [],
+    "timeSigMarkers": [],
+    "spatialMode": false,
+    "rendererOutputMode": "binaural"
+  },
+  "transport": {
+    "loopState": {
+      "enabled": false,
+      "startBeat": 0.0,
+      "endBeat": 16.0
+    },
+    "metronome": {
+      "enabled": false
+    }
+  },
+  "recording": {
+    "armState": {}
+  },
+  "automation": {
+    "lanes": {}
+  },
+  "project": {
+    "metadata": {
+      "id": "ovpwgi",
+      "name": "Untitled",
+      "formatVersion": "2.0.0",
+      "createdAt": "",
+      "modifiedAt": ""
+    },
+    "markers": {},
+    "regions": {},
+    "engineConfig": {
+      "sampleRate": 48000.0,
+      "bufferSize": 512
+    },
+    "trackAppearance": {},
+    "notes": {},
+    "customEditors": {},
+    "scriptFxEditors": {},
+    "videoFilePath": null
+  },
+  "settings": {
+    "user": {
+      "middleCOctave": 4,
+      "copyImportedSamples": true,
+      "autoSaveIntervalMs": 30000,
+      "undoHistorySize": 100,
+      "linkEnabled": false,
+      "linkStartStopSync": true,
+      "linkCustomOffsetMs": 0.0,
+      "directMonitoring": false
+    },
+    "appearance": {
+      "theme": "system"
+    },
+    "ai": {
+      "aiComfort": 3,
+      "developmentStage": 2,
+      "pluginPreload": "project"
+    },
+    "workflow": {
+      "vibeMode": false,
+      "experienceLevel": 3,
+      "defaultChannelStrip": null,
+      "pluginMode": "canvas"
+    },
+    "playback": {
+      "previewVolume": 0.7
+    },
+    "audioDevices": {
+      "audioOutputDevice": "Default",
+      "audioInputDevice": "None",
+      "masterOutputPair": 0
+    },
+    "hasApiKey": false
+  }
+}

@@ -1,0 +1,15 @@
+# Collab: route per-format state files through the
+# songbird-merge driver so rebases auto-resolve field-level
+# conflicts instead of producing conflict markers. The driver
+# binary is wired up by the cloud backend on pull.
+*.bird          merge=songbird-merge
+*.mixer.json    merge=songbird-merge
+*.plugins.json  merge=songbird-merge
+*.clips.json    merge=songbird-merge
+*.sections.json merge=songbird-merge
+*.motifs.json   merge=songbird-merge
+*.ml.json       merge=songbird-merge
+*.visual.json   merge=songbird-merge
+*.dubs.json     merge=songbird-merge
+*.state.json    merge=songbird-merge
+manifest.json   merge=songbird-merge

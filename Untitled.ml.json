@@ -1,0 +1,13 @@
+{
+  "chat": {
+    "threads": [],
+    "activeThreadId": "",
+    "chatMode": "copilot",
+    "selectedModel": "balanced"
+  },
+  "generation": {
+    "selectedModel": "lyria-realtime",
+    "activeJob": null,
+    "history": []
+  }
+}

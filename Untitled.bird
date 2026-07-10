@@ -17,9 +17,6 @@ tracks
   3 MIDI |avl
     type midi
     strip tivraStrip
-  4 MIDI |fln
-    type midi
-    strip tivraStrip
 
 returns
   0 Hall |rnl

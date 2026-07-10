@@ -104,6 +104,36 @@
         "amount": 0.0,
         "mode": "eighth"
       }
+    },
+    "lrwf": {
+      "id": "lrwf",
+      "trackId": "qkw",
+      "name": "Chicago sketch 11-dubpad 127 F [2020-12-03 123449]",
+      "startBeat": 11.843971866155544,
+      "lengthBeats": 138.66666666666666,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 3072000,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpm": 130.0,
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
+      "fadeInBeats": 0.008666666666666666,
+      "fadeOutBeats": 0.008666666666666666,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
     }
   },
   "clipPlugins": {}

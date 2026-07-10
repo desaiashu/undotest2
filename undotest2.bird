@@ -50,3 +50,6 @@ sec main
       p _w _qd xx _ww _h
         v 100
         n F3
+  trk 5 Audio |cxh
+    c 0:22 34:256 |clda
+      'samples/Chicago sketch 10-Mini V3.wav'

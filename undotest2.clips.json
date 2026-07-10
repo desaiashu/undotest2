@@ -134,6 +134,36 @@
         "amount": 0.0,
         "mode": "eighth"
       }
+    },
+    "clda": {
+      "id": "clda",
+      "trackId": "cxh",
+      "name": "Chicago sketch 10-Mini V3",
+      "startBeat": 0.23268325123307848,
+      "lengthBeats": 138.66666666666666,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/Chicago sketch 10-Mini V3.wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 3072000,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpm": 130.0,
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
+      "fadeInBeats": 0.008666666666666666,
+      "fadeOutBeats": 0.008666666666666666,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
     }
   },
   "clipPlugins": {}

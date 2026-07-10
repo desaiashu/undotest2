@@ -11,7 +11,7 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "apdive",
+            "id": "cxeibn",
             "note": 54,
             "velocity": 100,
             "beat": 1.5,
@@ -19,7 +19,7 @@
             "channel": 0
           },
           {
-            "id": "apdivf",
+            "id": "cxejps",
             "note": 51,
             "velocity": 100,
             "beat": 3.5,
@@ -27,7 +27,7 @@
             "channel": 0
           },
           {
-            "id": "apdkjk",
+            "id": "cxefcn",
             "note": 52,
             "velocity": 100,
             "beat": 8.5,
@@ -35,10 +35,18 @@
             "channel": 0
           },
           {
-            "id": "apdkjl",
+            "id": "cxefck",
             "note": 51,
             "velocity": 100,
             "beat": 11.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "cxegqt",
+            "note": 47,
+            "velocity": 100,
+            "beat": 12.0,
             "durationBeats": 0.5,
             "channel": 0
           }
